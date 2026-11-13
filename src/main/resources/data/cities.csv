@@ -1,0 +1,104 @@
+id,ar,en,region,weight
+riyadh,الرياض,Riyadh,RIYADH,100
+jeddah,جدة,Jeddah,MAKKAH,70
+makkah,مكة المكرمة,Makkah,MAKKAH,35
+madinah,المدينة المنورة,Madinah,MADINAH,25
+dammam,الدمام,Dammam,EASTERN_PROVINCE,20
+hofuf,الهفوف,Hofuf,EASTERN_PROVINCE,18
+tabuk,تبوك,Tabuk,TABUK,12
+buraydah,بريدة,Buraydah,QASSIM,12
+taif,الطائف,Taif,MAKKAH,15
+khamis-mushait,خميس مشيط,Khamis Mushait,ASIR,12
+jubail,الجبيل,Jubail,EASTERN_PROVINCE,8
+hail,حائل,Hail,HAIL,10
+khobar,الخبر,Khobar,EASTERN_PROVINCE,10
+najran,نجران,Najran,NAJRAN,8
+abha,أبها,Abha,ASIR,8
+yanbu,ينبع,Yanbu,MADINAH,6
+arar,عرعر,Arar,NORTHERN_BORDERS,4
+unaizah,عنيزة,Unaizah,QASSIM,4
+jazan,جازان,Jazan,JAZAN,6
+qurayyat,القريات,Qurayyat,AL_JOUF,3
+dhahran,الظهران,Dhahran,EASTERN_PROVINCE,5
+al-kharj,الخرج,Al Kharj,RIYADH,5
+qatif,القطيف,Qatif,EASTERN_PROVINCE,5
+sakaka,سكاكا,Sakaka,AL_JOUF,3
+al-mubarraz,المبرز,Al Mubarraz,EASTERN_PROVINCE,8
+zulfi,الزلفي,Zulfi,RIYADH,2
+dawadmi,الدوادمي,Dawadmi,RIYADH,3
+rafha,رفحاء,Rafha,NORTHERN_BORDERS,2
+wadi-al-dawasir,وادي الدواسر,Wadi Al Dawasir,RIYADH,1
+qunfudhah,القنفذة,Qunfudhah,MAKKAH,3
+bishah,بيشة,Bishah,ASIR,3
+abu-arish,أبو عريش,Abu Arish,JAZAN,3
+al-baha,الباحة,Al Baha,AL_BAHA,3
+sabya,صبيا,Sabya,JAZAN,3
+duba,ضباء,Duba,TABUK,2
+tayma,تيماء,Tayma,TABUK,2
+sharurah,شرورة,Sharurah,NAJRAN,2
+al-rass,الرس,Al Rass,QASSIM,3
+majmaah,المجمعة,Majmaah,RIYADH,3
+shaqra,شقراء,Shaqra,RIYADH,1
+hawtat-bani-tamim,حوطة بني تميم,Hawtat Bani Tamim,RIYADH,1
+al-aflaj,الأفلاج,Al Aflaj,RIYADH,1
+al-quwayiyah,القويعية,Al Quway'iyah,RIYADH,1
+thadiq,ثادق,Thadiq,RIYADH,1
+al-muzahimiyah,المزاحمية,Al Muzahimiyah,RIYADH,1
+diriyah,الدرعية,Diriyah,RIYADH,3
+hafar-al-batin,حفر الباطن,Hafar Al Batin,EASTERN_PROVINCE,5
+al-jash,الجش,Al Jash,EASTERN_PROVINCE,1
+al-khafji,الخفجي,Al Khafji,EASTERN_PROVINCE,2
+ras-tanura,رأس تنورة,Ras Tanura,EASTERN_PROVINCE,2
+abqaiq,بقيق,Abqaiq,EASTERN_PROVINCE,2
+alula,العلا,AlUla,MADINAH,2
+khaybar,خيبر,Khaybar,MADINAH,1
+badr,بدر,Badr,MADINAH,1
+rabigh,رابغ,Rabigh,MAKKAH,3
+lith,الليث,Lith,MAKKAH,1
+ranyah,رنية,Ranyah,MAKKAH,1
+turbah,تربة,Turbah,MAKKAH,1
+al-muwayh,المويه,Al Muwayh,MAKKAH,1
+muhayil-asir,محايل عسير,Muhayil Asir,ASIR,3
+al-namas,النماص,Al Namas,ASIR,1
+tanomah,تنومة,Tanomah,ASIR,1
+dhahran-al-janub,ظهران الجنوب,Dhahran Al Janub,ASIR,1
+samtah,صامطة,Samtah,JAZAN,2
+al-dayer,الدائر,Al Dayer,JAZAN,1
+al-aridah,العارضة,Al Aridah,JAZAN,1
+farasan,فرسان,Farasan,JAZAN,1
+al-tuwal,الطوال,Al Tuwal,JAZAN,1
+badr-al-janub,بدر الجنوب,Badr Al Janub,NAJRAN,1
+yadamah,يدمة,Yadamah,NAJRAN,1
+thar,ثار,Thar,NAJRAN,1
+al-mandiq,المندق,Al Mandiq,AL_BAHA,1
+baljurashi,بلجرشي,Baljurashi,AL_BAHA,2
+al-makhwah,المخواة,Al Makhwah,AL_BAHA,1
+qilwah,قلوة,Qilwah,AL_BAHA,1
+al-aqiq,العقيق,Al Aqiq,AL_BAHA,1
+turaif,طريف,Turaif,NORTHERN_BORDERS,2
+al-uwayqilah,العويقيلة,Al Uwayqilah,NORTHERN_BORDERS,1
+dawmat-al-jandal,دومة الجندل,Dawmat Al Jandal,AL_JOUF,1
+tabarjal,طبرجل,Tabarjal,AL_JOUF,1
+baqaa,بقعاء,Baqaa,HAIL,1
+al-ghazalah,الغزالة,Al Ghazalah,HAIL,1
+al-shinan,الشنان,Al Shinan,HAIL,1
+mawqaq,موقق,Mawqaq,HAIL,1
+al-hait,الحائط,Al Hait,HAIL,1
+al-bukayriyah,البكيرية,Al Bukayriyah,QASSIM,2
+al-mithnab,المذنب,Al Mithnab,QASSIM,2
+al-badaei,البدائع,Al Badaei,QASSIM,1
+riyadh-al-khabra,رياض الخبراء,Riyadh Al Khabra,QASSIM,1
+al-asyah,الأسياح,Al Asyah,QASSIM,1
+uyun-al-jiwa,عيون الجواء,Uyun Al Jiwa,QASSIM,1
+al-nabhaniyah,النبهانية,Al Nabhaniyah,QASSIM,1
+al-wajh,الوجه,Al Wajh,TABUK,2
+umluj,أملج,Umluj,TABUK,2
+haql,حقل,Haql,TABUK,2
+al-bad,البدع,Al Bad,TABUK,1
+al-qalibah,القليبة,Al Qalibah,TABUK,1
+shuabat-nisab,شعبة نصاب,Shuabat Nisab,NORTHERN_BORDERS,1
+jadidat-arar,جديدة عرعر,Jadidat Arar,NORTHERN_BORDERS,1
+linah,لينة,Linah,NORTHERN_BORDERS,1
+suwayr,صوير,Suwayr,AL_JOUF,1
+al-hadithah,الحديثة,Al Hadithah,AL_JOUF,1
+al-isawiyah,العيساوية,Al Isawiyah,AL_JOUF,1

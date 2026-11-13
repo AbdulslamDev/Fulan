@@ -1,0 +1,45 @@
+ar,en,sector,weight
+مهندس برمجيات,Software Engineer,any,10
+محاسب,Accountant,any,20
+مدير مشروع,Project Manager,any,10
+أخصائي موارد بشرية,HR Specialist,any,10
+مدير مبيعات,Sales Manager,any,10
+مسؤول تسويق,Marketing Officer,any,10
+محلل بيانات,Data Analyst,any,10
+مهندس مدني,Civil Engineer,contracting,10
+مهندس كهربائي,Electrical Engineer,any,10
+مهندس ميكانيكي,Mechanical Engineer,any,10
+طبيب,Physician,healthcare,10
+ممرض,Nurse,healthcare,10
+صيدلي,Pharmacist,healthcare,10
+معلم,Teacher,education,20
+محامي,Lawyer,any,10
+مدقق داخلي,Internal Auditor,any,10
+أخصائي أمن سيبراني,Cybersecurity Specialist,any,10
+مدير عمليات,Operations Manager,any,10
+مدير مالي,Finance Manager,any,10
+مطور تطبيقات,Application Developer,any,10
+مصمم جرافيك,Graphic Designer,any,10
+أخصائي علاقات عامة,Public Relations Specialist,any,10
+مدير تنفيذي,Chief Executive Officer,any,3
+مساعد إداري,Administrative Assistant,any,20
+موظف خدمة عملاء,Customer Service Representative,any,20
+مشرف مستودع,Warehouse Supervisor,any,10
+سائق,Driver,any,20
+فني صيانة,Maintenance Technician,any,10
+مهندس شبكات,Network Engineer,any,10
+محلل أعمال,Business Analyst,any,10
+مدير منتج,Product Manager,any,10
+أخصائي مشتريات,Procurement Specialist,any,10
+مهندس بترول,Petroleum Engineer,energy,3
+جيولوجي,Geologist,energy,3
+طيار,Pilot,transportation,3
+مضيف جوي,Flight Attendant,transportation,3
+مهندس معماري,Architect,contracting,10
+أخصائي تغذية,Nutritionist,healthcare,3
+أخصائي علاج طبيعي,Physiotherapist,healthcare,10
+باحث,Researcher,any,3
+مدير فرع,Branch Manager,any,10
+كاشير,Cashier,retail,20
+مندوب مبيعات,Sales Representative,any,20
+مترجم,Translator,any,3

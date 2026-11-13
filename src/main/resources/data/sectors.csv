@@ -1,0 +1,25 @@
+id,ar,en,activity_ar,activity_en,weight
+trading,التجارة,Trading,للتجارة,Trading,30
+contracting,المقاولات,Contracting,للمقاولات,Contracting,30
+technology,التقنية,Technology,للتقنية,Technology,10
+investment,الاستثمار,Investment,للاستثمار,Investment,10
+logistics,الخدمات اللوجستية,Logistics,للخدمات اللوجستية,Logistics,10
+real-estate,العقارات,Real Estate,العقارية,Real Estate,20
+food,الأغذية,Food,للأغذية,Foods,20
+development,التطوير,Development,للتطوير,Development,10
+manufacturing,الصناعة,Manufacturing,للصناعة,Industries,10
+healthcare,الرعاية الصحية,Healthcare,الطبية,Medical,10
+tourism,السياحة,Tourism,للسياحة,Tourism,10
+telecommunications,الاتصالات,Telecommunications,للاتصالات,Telecom,5
+education,التعليم,Education,للتعليم,Education,10
+transportation,النقل,Transportation,للنقل,Transport,10
+marketing,التسويق,Marketing,للتسويق,Marketing,10
+consulting,الاستشارات,Consulting,للاستشارات,Consulting,10
+energy,الطاقة,Energy,للطاقة,Energy,5
+petrochemicals,البتروكيماويات,Petrochemicals,للبتروكيماويات,Petrochemicals,5
+retail,التجزئة,Retail,للتجزئة,Retail,20
+insurance,التأمين,Insurance,للتأمين,Insurance,5
+financial-services,الخدمات المالية,Financial Services,للخدمات المالية,Financial Services,10
+agriculture,الزراعة,Agriculture,الزراعية,Agriculture,5
+media,الإعلام,Media,للإعلام,Media,5
+entertainment,الترفيه,Entertainment,للترفيه,Entertainment,5
